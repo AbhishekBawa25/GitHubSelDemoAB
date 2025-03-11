@@ -36,7 +36,7 @@ public class GoogleSearchTest {
         searchBox.submit();
 
         // Verify title contains search term
-        //Assert.assertTrue(driver.getTitle().contains("Selenium automation"), "Title does not contain search term");
+        //deleted the assert function
 
 
     
