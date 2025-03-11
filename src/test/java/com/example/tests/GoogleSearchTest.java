@@ -36,7 +36,7 @@ public class GoogleSearchTest {
         searchBox.submit();
 
         // Verify title contains search term
-        //deleted the assert function
+        //Deleted the assert function
 
 
     
