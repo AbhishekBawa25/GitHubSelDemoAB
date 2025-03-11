@@ -1,3 +1,4 @@
+//This Code is also available on GitHub
 package com.example.tests;
 
 import org.openqa.selenium.By;
